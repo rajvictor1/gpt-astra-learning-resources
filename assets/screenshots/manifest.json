@@ -1,0 +1,195 @@
+{
+  "source": "Screenshots matched by visible slide content to the supplied lesson transcript; source PNG names are listed for newly added assets. Unmatched screenshots are not displayed.",
+  "new_asset_sources": {
+    "assets/screenshots/lesson-18-brief.webp": "Screenshot 2026-09-29 at 8.47.41 PM.png",
+    "assets/screenshots/lesson-19-authority.webp": "Screenshot 2026-09-29 at 8.48.18 PM.png",
+    "assets/screenshots/lesson-19-checkpoints.webp": "Screenshot 2026-09-29 at 8.50.07 PM.png",
+    "assets/screenshots/lesson-19-done.webp": "Screenshot 2026-09-29 at 8.50.36 PM.png",
+    "assets/screenshots/lesson-18-evidence-review.webp": "Screenshot 2026-09-29 at 8.53.14 PM.png"
+  },
+  "mapped_screenshots": [
+    {
+      "lesson": 1,
+      "title": "Core Basics and the Restaurant Analogy",
+      "asset": "assets/screenshots/lesson-01-goal-oriented-work.webp",
+      "alt": "Dark slide reading Give an AI a goal, a messy folder, a browser, and 30 minutes.",
+      "caption": "The slide’s opening challenge: define a goal and give the system the context and time to work."
+    },
+    {
+      "lesson": 1,
+      "title": "Core Basics and the Restaurant Analogy",
+      "asset": "assets/screenshots/lesson-01-ai-capability-shift.webp",
+      "alt": "Slide contrasts answers, assists, acts, and finishes as stages of AI capability.",
+      "caption": "The session’s progression from getting answers to completing work."
+    },
+    {
+      "lesson": 2,
+      "title": "The Restaurant Workflow & Delegation",
+      "asset": "assets/screenshots/lesson-02-delegation-loop.webp",
+      "alt": "Slide listing four moves: understand, delegate, watch, and operationalize.",
+      "caption": "The four moves the trainer uses to explain delegation."
+    },
+    {
+      "lesson": 2,
+      "title": "The Restaurant Workflow & Delegation",
+      "asset": "assets/screenshots/lesson-02-autonomy-and-priority.webp",
+      "alt": "Slide about Astra continuing work while one question waits, with research, prepare, and build steps.",
+      "caption": "Related session slide about work continuing while a question waits. The transcript does not specify its prioritization rules."
+    },
+    {
+      "lesson": 3,
+      "title": "Answers vs. Completed Work",
+      "asset": "assets/screenshots/lesson-03-verified-outcome.webp",
+      "alt": "Slide states GPT-6 Astra is a reasoning model built for end-to-end work and the useful unit is the verified outcome.",
+      "caption": "The slide makes the session’s answer-versus-outcome distinction explicit."
+    },
+    {
+      "lesson": 3,
+      "title": "Answers vs. Completed Work",
+      "asset": "assets/screenshots/lesson-03-chat-versus-delegation.webp",
+      "alt": "Comparison slide: chat asks for content while delegation asks for completion.",
+      "caption": "A concise visual distinction between asking for content and delegating a finished result."
+    },
+    {
+      "lesson": 4,
+      "title": "AGI, Model, Harness, and Workflow",
+      "asset": "assets/screenshots/lesson-04-model-harness-workflow.webp",
+      "alt": "Slide titled Astra is evidence of progress, not proof of AGI, comparing model, harness, and workflow.",
+      "caption": "The session’s three-part framework: model, harness, and workflow."
+    },
+    {
+      "lesson": 5,
+      "title": "Live Demonstration & ChatGPT Work Interface",
+      "asset": "assets/screenshots/lesson-05-work-interface-model-picker.webp",
+      "alt": "Screenshot of the GPT Work interface showing a model and effort selection menu.",
+      "caption": "The model and effort controls shown during the live interface demonstration."
+    },
+    {
+      "lesson": 5,
+      "title": "Live Demonstration & ChatGPT Work Interface",
+      "asset": "assets/screenshots/lesson-05-research-prompt.webp",
+      "alt": "Screenshot of the detailed prompt requesting a comparison of six AI operations programs with verified fields and exact links.",
+      "caption": "The research request and its comparison criteria as entered for the demonstration."
+    },
+    {
+      "lesson": 6,
+      "title": "The Execution Loop",
+      "asset": "assets/screenshots/lesson-06-execution-loop.webp",
+      "alt": "Diagram of answer, reason, act, and verify steps.",
+      "caption": "The session’s execution loop, arranged as four visible stages."
+    },
+    {
+      "lesson": 6,
+      "title": "The Execution Loop",
+      "asset": "assets/screenshots/lesson-06-delegated-mission-loop.webp",
+      "alt": "Circular process diagram for delegated missions, showing understand, report, plan, verify, inspect, and act.",
+      "caption": "A companion slide expands the delegated task into a repeating mission loop."
+    },
+    {
+      "lesson": 7,
+      "title": "Architecture Layers of Astra",
+      "asset": "assets/screenshots/lesson-07-astra-architecture-layers.webp",
+      "alt": "Layer diagram showing model, context, tools, permissions, feedback, and evaluation.",
+      "caption": "The layer diagram associated with the architecture discussion."
+    },
+    {
+      "lesson": 8,
+      "title": "Task Results and Baseline Use Cases",
+      "asset": "assets/screenshots/lesson-08-research-result-table.webp",
+      "alt": "Screenshot of the generated AI operations program comparison table.",
+      "caption": "The result table shown after the research prompt. The transcript’s stated total and named providers do not fully agree."
+    },
+    {
+      "lesson": 9,
+      "title": "Native Capabilities and Deployment Environments",
+      "asset": "assets/screenshots/lesson-09-capability-routing.webp",
+      "alt": "Slide titled What goes in, what comes out, showing text and images in and text out, with audio and video note.",
+      "caption": "The session slide about input and output types. Its statements are presented here as the trainer’s explanation."
+    },
+    {
+      "lesson": 9,
+      "title": "Native Capabilities and Deployment Environments",
+      "asset": "assets/screenshots/lesson-09-deployment-environments.webp",
+      "alt": "Comparison of ChatGPT conversation, Codex local files and tools, and API custom product environments.",
+      "caption": "The three environments named in the transcript."
+    },
+    {
+      "lesson": 10,
+      "title": "Choosing Effort Levels",
+      "asset": "assets/screenshots/lesson-10-reasoning-effort-levels.webp",
+      "alt": "Chart comparing low, medium, high, extra high, and max reasoning effort levels.",
+      "caption": "The effort-level guide shown in the session."
+    },
+    {
+      "lesson": 11,
+      "title": "Managing Context & Prompt Quality",
+      "asset": "assets/screenshots/lesson-11-structured-task-instructions.webp",
+      "alt": "Screenshot of a staged task response with evidence, rejected positions, approval, and a budget scenario.",
+      "caption": "A structured task exchange illustrating staged instructions and checkpoints."
+    },
+    {
+      "lesson": 12,
+      "title": "Automated Email Processing & The Tool Multiplier",
+      "asset": "assets/screenshots/lesson-12-tool-multiplier.webp",
+      "alt": "Slide grouping tools into search, create, compute, operate, connect, and route.",
+      "caption": "The tool categories used in the session to explain the multiplier effect."
+    },
+    {
+      "lesson": 12,
+      "title": "Automated Email Processing & The Tool Multiplier",
+      "asset": "assets/screenshots/lesson-12-email-processing-demo.webp",
+      "alt": "Screenshot of an email-processing task prompt asking for a supplier email summary and recommended action.",
+      "caption": "The supplier-email example shown in the interface; the transcript describes summarizing, checking, and drafting or logging."
+    },
+    {
+      "lesson": 12,
+      "title": "Automated Email Processing & The Tool Multiplier",
+      "asset": "assets/screenshots/lesson-12-tool-choice-and-human-review.webp",
+      "alt": "Slide comparing direct tools, computer use, and human handoff as ways to act.",
+      "caption": "Related slide with additional tool-choice guidance that the transcript excerpt does not expand."
+    },
+    {
+      "lesson": 14,
+      "title": "Benchmarks and Limitations",
+      "asset": "assets/screenshots/lesson-14-limitations-slide.webp",
+      "alt": "Slide lists ambiguity, missing truth, prompt injection, accountability, and variability as remaining limits.",
+      "caption": "The slide includes additional limitations—missing truth, prompt injection, accountability, and variability—that are not explained in the transcript text. They are identified here as slide content, not transcript-derived claims."
+    },
+    {
+      "lesson": 18,
+      "title": "Structuring Prompts for Autonomous Execution",
+      "asset": "assets/screenshots/lesson-18-brief.webp",
+      "alt": "Slide comparing a weak request with a strong, evidence-based bounded delegation brief.",
+      "caption": "The contrast supports the lesson’s focus on outcome, evidence, boundaries, and a clear stop before publishing or spending."
+    },
+    {
+      "lesson": 18,
+      "title": "Structuring Prompts for Autonomous Execution",
+      "asset": "assets/screenshots/lesson-18-evidence-review.webp",
+      "alt": "Slide explaining that a real use case tests research, analysis, judgment, creation, and verification.",
+      "caption": "The source’s launch-planning example spans multiple capabilities and ends with verification."
+    },
+    {
+      "lesson": 19,
+      "title": "Execution, Permissions, and Safety Guardrails",
+      "asset": "assets/screenshots/lesson-19-authority.webp",
+      "alt": "Permission-design slide assigning read and draft actions to automatic execution, edits to checkpoints, and external communication or spending to human-only authority.",
+      "caption": "The screenshot makes the source’s three permission tiers concrete with examples of read, draft, edit, communicate, and spend actions."
+    },
+    {
+      "lesson": 19,
+      "title": "Execution, Permissions, and Safety Guardrails",
+      "asset": "assets/screenshots/lesson-19-checkpoints.webp",
+      "alt": "Human-in-the-loop slide placing checkpoints at plan, evidence, decision, and action boundaries.",
+      "caption": "Review decisions that change consequences instead of reviewing every routine step."
+    },
+    {
+      "lesson": 19,
+      "title": "Execution, Permissions, and Safety Guardrails",
+      "asset": "assets/screenshots/lesson-19-done.webp",
+      "alt": "Acceptance-criteria slide defining correct, complete, coherent, usable, and safe work.",
+      "caption": "The source’s completion criteria expressed as checks that can be evaluated."
+    }
+  ],
+  "unmatched_new_captures": []
+}

@@ -1,0 +1,250 @@
+{
+  "title": "GPT-6 Astra & AI Operations",
+  "sourceFile": ["session_transcript_gpt_6_astra_ai_operations.md", "advanced_ai_delegation_and_brief.md"],
+  "lessons": [
+    {
+      "number": 1,
+      "title": "Core Basics and the Restaurant Analogy",
+      "summary": "The session opens with the foundations learners need before applying AI to practical work, using a restaurant owner and head chef to explain the shift from advice to action.",
+      "highlights": [
+        "The trainer says practical execution depends on understanding the core ideas first.",
+        "The restaurant owner represents the person setting the goal; Astra is introduced as a head chef who can coordinate and do the work.",
+        "The lesson frames the key shift as asking AI to work toward a clear goal, rather than only explain or recommend."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-01-goal-oriented-work.webp","alt":"Dark slide reading Give an AI a goal, a messy folder, a browser, and 30 minutes.","caption":"The slide’s opening challenge: define a goal and give the system the context and time to work."},
+        {"src":"assets/screenshots/lesson-01-ai-capability-shift.webp","alt":"Slide contrasts answers, assists, acts, and finishes as stages of AI capability.","caption":"The session’s progression from getting answers to completing work."}
+      ],
+      "faq": [{"q":"Why does the session emphasize a clear goal?","a":"The trainer’s framing is that AI needs a defined outcome to work toward. A vague request makes it harder to know what action or finished result is expected."}]
+    },
+    {
+      "number": 2,
+      "title": "The Restaurant Workflow & Delegation",
+      "summary": "The restaurant analogy becomes an operating model: understand the request, delegate the work, watch and steer progress, then define how much autonomy is appropriate.",
+      "highlights": [
+        "Start by understanding the requested outcome and its details.",
+        "The head chef breaks the order into tasks, delegates to helpers or sub-agents, and coordinates work in parallel.",
+        "The owner watches, steers when the work drifts, and verifies the result before increasing autonomy."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-02-delegation-loop.webp","alt":"Slide listing four moves: understand, delegate, watch, and operationalize.","caption":"The four moves the trainer uses to explain delegation."},
+        {"src":"assets/screenshots/lesson-02-autonomy-and-priority.webp","alt":"Slide about Astra continuing work while one question waits, with research, prepare, and build steps.","caption":"Related session slide about work continuing while a question waits. The transcript does not specify its prioritization rules."}
+      ],
+      "faq": [{"q":"What does the human owner still do?","a":"In the restaurant example, the owner gives the requirement, watches for drift, redirects the work when needed, and checks whether the result matches the request."}]
+    },
+    {
+      "number": 3,
+      "title": "Answers vs. Completed Work",
+      "summary": "The session distinguishes an informative response from a delivered result that has been checked and is ready to use.",
+      "highlights": [
+        "The trainer contrasts useful answers with completed work.",
+        "The described work cycle includes rechecking the result, verifying it, providing sources, explaining the method, and delivering the artifact.",
+        "The session’s suggested success measure is the verified outcome, not just the answer."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-03-verified-outcome.webp","alt":"Slide states GPT-6 Astra is a reasoning model built for end-to-end work and the useful unit is the verified outcome.","caption":"The slide makes the session’s answer-versus-outcome distinction explicit."},
+        {"src":"assets/screenshots/lesson-03-chat-versus-delegation.webp","alt":"Comparison slide: chat asks for content while delegation asks for completion.","caption":"A concise visual distinction between asking for content and delegating a finished result."}
+      ],
+      "faq": [{"q":"What counts as completed work in this session?","a":"The trainer describes a result that is delivered, rechecked, verified, supported by sources where relevant, and accompanied by an explanation of how it was produced."}]
+    },
+    {
+      "number": 4,
+      "title": "AGI, Model, Harness, and Workflow",
+      "summary": "The trainer separates the model’s raw capability from the tools and rules around it, and from the workflow that defines the task and checks the result.",
+      "highlights": [
+        "The session does not settle whether Astra should be called AGI; it focuses on its ability to carry out work.",
+        "Model means the engine’s capability; harness means its tools, memory, permissions, policies, and feedback loops.",
+        "Workflow means the task’s data, objectives, instructions, control, and review. The trainer says good results depend on all three."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-04-model-harness-workflow.webp","alt":"Slide titled Astra is evidence of progress, not proof of AGI, comparing model, harness, and workflow.","caption":"The session’s three-part framework: model, harness, and workflow."}
+      ],
+      "faq": [{"q":"How is a model different from a harness?","a":"The model is compared to the chef’s skill. The harness is compared to the kitchen equipment and rules that shape what that chef can do in a particular setting."}]
+    },
+    {
+      "number": 5,
+      "title": "Live Demonstration & ChatGPT Work Interface",
+      "summary": "The demonstration turns a research request into a multi-step task: inspect program pages, extract comparable facts, link the pages checked, and avoid guessing.",
+      "highlights": [
+        "The transcript describes choosing a work mode, an effort level, and an underlying model in the demonstrated interface.",
+        "The sample asks for six real AI-operations programs and specifies the comparison fields: provider, price, length, format, audience, and exact page link.",
+        "The prompt sets evidence rules: check each page and mark unavailable details instead of guessing."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-05-work-interface-model-picker.webp","alt":"Screenshot of the GPT Work interface showing a model and effort selection menu.","caption":"The model and effort controls shown during the live interface demonstration."},
+        {"src":"assets/screenshots/lesson-05-research-prompt.webp","alt":"Screenshot of the detailed prompt requesting a comparison of six AI operations programs with verified fields and exact links.","caption":"The research request and its comparison criteria as entered for the demonstration."}
+      ],
+      "faq": [{"q":"Why does the sample prompt list exact comparison fields?","a":"The fields define what the final table must contain, so results can be compared consistently and missing information can be identified instead of filled in by guesswork."}]
+    },
+    {
+      "number": 6,
+      "title": "The Execution Loop",
+      "summary": "The session presents agent work as a visible loop from a question through planning and action to verification, with a person checking whether the outcome is right.",
+      "highlights": [
+        "The loop begins with the question or requested outcome.",
+        "The AI reasons and plans, then acts across the needed tools or sites.",
+        "It verifies what it did, while a human remains in the loop to validate the result."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-06-execution-loop.webp","alt":"Diagram of answer, reason, act, and verify steps.","caption":"The session’s execution loop, arranged as four visible stages."},
+        {"src":"assets/screenshots/lesson-06-delegated-mission-loop.webp","alt":"Circular process diagram for delegated missions, showing understand, report, plan, verify, inspect, and act.","caption":"A companion slide expands the delegated task into a repeating mission loop."}
+      ],
+      "faq": [{"q":"Why is verification a separate step?","a":"Taking an action does not prove it worked or matched the request. The session treats checking the evidence and having a human validate the outcome as part of the work."}]
+    },
+    {
+      "number": 7,
+      "title": "Architecture Layers of Astra",
+      "summary": "The transcript groups the capabilities around an agent into context, reasoning effort, connectors, permissions and live data access, and feedback or evaluation loops.",
+      "highlights": [
+        "The session names a large context window and adjustable reasoning effort.",
+        "Plugins and connectors provide access to external apps; permissions and web fetching affect what the system can reach.",
+        "Feedback and evaluation loops are presented as checks that help assess correctness."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-07-astra-architecture-layers.webp","alt":"Layer diagram showing model, context, tools, permissions, feedback, and evaluation.","caption":"The layer diagram associated with the architecture discussion."}
+      ],
+      "faq": [{"q":"What happens if an architecture layer is missing?","a":"The trainer says the system breaks down if a layer is removed. The practical takeaway is to check that the needed context, tools, access, and review process are present for the task."}]
+    },
+    {
+      "number": 8,
+      "title": "Task Results and Baseline Use Cases",
+      "summary": "The transcript reports that the live research task produced a comparison containing duration, format, and verified source links.",
+      "highlights": [
+        "The transcript describes the research comparison as a baseline use case.",
+        "It says duration, format, and exact source links were extracted.",
+        "Source count needs confirmation: the transcript says “top 6 programs” but names only SkillUp, StarWeaver via Coursera, Harold, and Maven."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-08-research-result-table.webp","alt":"Screenshot of the generated AI operations program comparison table.","caption":"The result table shown after the research prompt. The transcript’s stated total and named providers do not fully agree."}
+      ],
+      "faq": [{"q":"Did the task return six programs?","a":"The transcript refers to “top 6 programs” but lists four names. The original result table should be checked before publishing a definitive count."}]
+    },
+    {
+      "number": 9,
+      "title": "Native Capabilities and Deployment Environments",
+      "summary": "The session describes routing different kinds of work to suitable model capabilities, then distinguishes the web, desktop, and API environments where Astra can be used.",
+      "highlights": [
+        "The trainer’s explanation says text and code are handled natively, while image work may use specialized models and audio or video may be routed to a suitable model.",
+        "ChatGPT Web is described as a conversational surface with connected workspaces and browsing.",
+        "Codex or desktop is described as working with local files, terminal, codebase, and browser; API is described as an integration path into custom apps."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-09-capability-routing.webp","alt":"Slide titled What goes in, what comes out, showing text and images in and text out, with audio and video note.","caption":"The session slide about input and output types. Its statements are presented here as the trainer’s explanation."},
+        {"src":"assets/screenshots/lesson-09-deployment-environments.webp","alt":"Comparison of ChatGPT conversation, Codex local files and tools, and API custom product environments.","caption":"The three environments named in the transcript."}
+      ],
+      "faq": [{"q":"How do the three environments differ in the session?","a":"The transcript distinguishes connected web work, local desktop access to files and development tools, and an API that lets builders embed model capability in their own systems."}]
+    },
+    {
+      "number": 10,
+      "title": "Choosing Effort Levels",
+      "summary": "The trainer maps effort settings to task size and complexity, from routine work to deeper research and analytical exploration.",
+      "highlights": [
+        "Low is described for routine tasks; Medium for everyday work and delegation.",
+        "High is suggested for complex assets or ambiguous work; Extra High for in-depth research and debugging.",
+        "Max is described as peak analytical exploration. The earlier demo notes that higher effort can take longer."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-10-reasoning-effort-levels.webp","alt":"Chart comparing low, medium, high, extra high, and max reasoning effort levels.","caption":"The effort-level guide shown in the session."}
+      ],
+      "faq": [{"q":"Should I always choose the highest effort?","a":"The transcript maps effort to task demands and notes that more effort takes longer. Choose based on complexity and the depth of reasoning the task needs."}]
+    },
+    {
+      "number": 11,
+      "title": "Managing Context & Prompt Quality",
+      "summary": "A large context window does not replace a well-structured request. The session emphasizes selecting useful context and defining the outcome and checks clearly.",
+      "highlights": [
+        "The trainer cautions that a large context window is not a reason to include everything.",
+        "Structure, retrieval, compression, and verification still matter.",
+        "A useful prompt defines the goal, requested structure, reasoning expectations, and how the result should be verified."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-11-structured-task-instructions.webp","alt":"Screenshot of a staged task response with evidence, rejected positions, approval, and a budget scenario.","caption":"A structured task exchange illustrating staged instructions and checkpoints."}
+      ],
+      "faq": [{"q":"What should a strong prompt specify?","a":"Based on the session, specify the goal, required output structure, reasoning expectations, relevant context, and the checks that will establish whether the result is correct."}]
+    },
+    {
+      "number": 12,
+      "title": "Automated Email Processing & The Tool Multiplier",
+      "summary": "The email example shows how access to files, search, computation, artifact creation, and connected apps expands what an agent can do.",
+      "highlights": [
+        "The example asks Astra to summarize a supplier email and invoice and recommend the next action; the transcript says it can draft a response or log the action.",
+        "The trainer groups tools into search and files, artifact generation, computation, and app control through connectors or plugins.",
+        "The screenshot also shows a tool-choice and human-handoff slide; that extra decision framework is not explained in the transcript."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-12-tool-multiplier.webp","alt":"Slide grouping tools into search, create, compute, operate, connect, and route.","caption":"The tool categories used in the session to explain the multiplier effect."},
+        {"src":"assets/screenshots/lesson-12-email-processing-demo.webp","alt":"Screenshot of an email-processing task prompt asking for a supplier email summary and recommended action.","caption":"The supplier-email example shown in the interface; the transcript describes summarizing, checking, and drafting or logging."},
+        {"src":"assets/screenshots/lesson-12-tool-choice-and-human-review.webp","alt":"Slide comparing direct tools, computer use, and human handoff as ways to act.","caption":"Related slide with additional tool-choice guidance that the transcript excerpt does not expand."}
+      ],
+      "faq": [{"q":"Does the email example authorize the agent to make the payment?","a":"The example prompt says the owner has already approved the payment, but the transcript describes summarizing the email, checking the invoice, and drafting a response or logging an action. It does not say the agent itself should transfer money."}]
+    },
+    {
+      "number": 13,
+      "title": "Case Study — AI Filmmaking",
+      "summary": "The creative-work example contrasts manual prompt copying across tools with an integrated workflow that interprets instructions, sends prompts, retrieves assets, and presents them for review.",
+      "highlights": [
+        "The transcript describes a creative director’s earlier workflow as manually moving prompts between video tools.",
+        "With backend integrations, the system interprets instructions, sends prompts to external tools, retrieves generated assets, and presents them for review.",
+        "The stated takeaway is a shift from helping a person do the work to doing more of the workflow for them."
+      ],
+      "screenshots": [],
+      "faq": [{"q":"What changes when filmmaking tools are integrated?","a":"The transcript describes Astra coordinating the instructions and handoffs to external tools, then returning assets for a person to review, instead of requiring manual prompt copying at each step."}]
+    },
+    {
+      "number": 14,
+      "title": "Benchmarks and Limitations",
+      "summary": "The session mentions strong benchmark performance while emphasizing that ambiguity and contradictory instructions can still lead to errors.",
+      "highlights": [
+        "The transcript refers to ARC AGI and OS World computer-use tasks but gives no scores or cited results.",
+        "It names ambiguity and contradictory prompts as remaining sources of hallucination or execution errors.",
+        "The practical advice is to make instructions clear and resolve conflicts before delegating."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-14-limitations-slide.webp","alt":"Slide lists ambiguity, missing truth, prompt injection, accountability, and variability as remaining limits.","caption":"The slide includes additional limitations—missing truth, prompt injection, accountability, and variability—that are not explained in the transcript text. They are identified here as slide content, not transcript-derived claims."}
+      ],
+      "faq": [{"q":"Do the benchmark references prove the system will always succeed?","a":"No. The transcript gives no benchmark scores and immediately discusses limitations. It specifically warns that ambiguity and contradictory prompts can still lead to errors."}]
+    },
+    {
+      "number": 18,
+      "title": "Structuring Prompts for Autonomous Execution",
+      "summary": "This source introduces a six-block delegation brief for complex work: define the outcome, give context, set constraints, state authority, require evidence, and make completion testable. It contrasts informative chat prompts with bounded autonomous delegation.",
+      "highlights": [
+        "Define the intended outcome and provide relevant context, separating internal evidence from public sources and labeling anything untraceable as an assumption.",
+        "Set constraints such as budget and target metrics, then state what the system may do and where it must stop for approval.",
+        "Require an evidence ledger linking claims and numbers to sources, plus a staged definition of done with explicit approval gates.",
+        "The source says COSTAR can help with informative answers, while complex delegation needs explicit authority, constraints, evidence, and stopping points.",
+        "The budget, application target, and delivery-time examples are examples in the supplied source, not independently verified results."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-18-brief.webp","alt":"Slide comparing a weak request with a strong, evidence-based bounded delegation brief.","caption":"The contrast supports the lesson’s focus on outcome, evidence, boundaries, and a clear stop before publishing or spending."},
+        {"src":"assets/screenshots/lesson-18-evidence-review.webp","alt":"Slide explaining that a real use case tests research, analysis, judgment, creation, and verification.","caption":"The source’s launch-planning example spans multiple capabilities and ends with verification."}
+      ],
+      "faq": [
+        {"q":"What are the six blocks in a delegation brief?","a":"Outcome, Context, Constraints, Authority, Evidence, and Definition of Done. Together they say what result is needed, what information applies, what limits exist, what actions are allowed, how claims should be supported, and when work must stop or be considered complete."},
+        {"q":"Why does the source distinguish COSTAR from a delegation brief?","a":"It presents COSTAR as useful for informative answers, while complex autonomous work also needs clear permissions, constraints, evidence requirements, and approval checkpoints."},
+        {"q":"Are the budget and application figures proven outcomes?","a":"No. They appear as illustrative examples in the supplied Markdown and should not be treated as measured or verified results."}
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Execution, Permissions, and Safety Guardrails",
+      "summary": "This lesson groups agent permissions into automatic, checkpointed, and blocked actions, then defines verified work through testable quality and safety criteria.",
+      "highlights": [
+        "The source places reading files and sites and drafting internal notes in the automatic tier.",
+        "Changes to approved internal files or codebases require a human checkpoint; external communication and spending are blocked without direct human intervention.",
+        "Set checkpoints at consequential decision boundaries such as approving a plan, reviewing evidence, choosing a direction, and authorizing external impact.",
+        "A testable definition of done checks correctness, completeness, coherence, usability, and safety; claims trace to evidence and every required artifact exists."
+      ],
+      "screenshots": [
+        {"src":"assets/screenshots/lesson-19-authority.webp","alt":"Permission-design slide assigning read and draft actions to automatic execution, edits to checkpoints, and external communication or spending to human-only authority.","caption":"The screenshot makes the source’s three permission tiers concrete with examples of read, draft, edit, communicate, and spend actions."},
+        {"src":"assets/screenshots/lesson-19-checkpoints.webp","alt":"Human-in-the-loop slide placing checkpoints at plan, evidence, decision, and action boundaries.","caption":"Review decisions that change consequences instead of reviewing every routine step."},
+        {"src":"assets/screenshots/lesson-19-done.webp","alt":"Acceptance-criteria slide defining correct, complete, coherent, usable, and safe work.","caption":"The source’s completion criteria expressed as checks that can be evaluated."}
+      ],
+      "faq": [
+        {"q":"What belongs in the blocked permission tier?","a":"The supplied source places external communication, sending emails, and spending money in the blocked or human-only tier unless a person directly intervenes."},
+        {"q":"Where should a human checkpoint go?","a":"At decision boundaries where the consequences change—for example, approving a plan, reviewing evidence quality, choosing a direction, or authorizing an external action."},
+        {"q":"How can I tell whether delegated work is done?","a":"Use testable checks: claims are supported and calculations can be recomputed, required artifacts exist, artifacts agree, the target user can act without rework, and no action exceeded its authorized scope."}
+      ]
+    }
+  ]
+}
