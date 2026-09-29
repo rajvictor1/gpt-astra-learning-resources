@@ -1,6 +1,10 @@
 {
   "title": "GPT-6 Astra & AI Operations",
-  "sourceFile": ["session_transcript_gpt_6_astra_ai_operations.md", "advanced_ai_delegation_and_brief.md"],
+  "sourceFile": [
+    "session_transcript_gpt_6_astra_ai_operations.md",
+    "advanced_ai_delegation_and_brief.md",
+    "extra_transcript_part_3.md"
+  ],
   "lessons": [
     {
       "number": 1,
@@ -12,10 +16,23 @@
         "The lesson frames the key shift as asking AI to work toward a clear goal, rather than only explain or recommend."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-01-goal-oriented-work.webp","alt":"Dark slide reading Give an AI a goal, a messy folder, a browser, and 30 minutes.","caption":"The slide’s opening challenge: define a goal and give the system the context and time to work."},
-        {"src":"assets/screenshots/lesson-01-ai-capability-shift.webp","alt":"Slide contrasts answers, assists, acts, and finishes as stages of AI capability.","caption":"The session’s progression from getting answers to completing work."}
+        {
+          "src": "assets/screenshots/lesson-01-goal-oriented-work.webp",
+          "alt": "Dark slide reading Give an AI a goal, a messy folder, a browser, and 30 minutes.",
+          "caption": "The slide’s opening challenge: define a goal and give the system the context and time to work."
+        },
+        {
+          "src": "assets/screenshots/lesson-01-ai-capability-shift.webp",
+          "alt": "Slide contrasts answers, assists, acts, and finishes as stages of AI capability.",
+          "caption": "The session’s progression from getting answers to completing work."
+        }
       ],
-      "faq": [{"q":"Why does the session emphasize a clear goal?","a":"The trainer’s framing is that AI needs a defined outcome to work toward. A vague request makes it harder to know what action or finished result is expected."}]
+      "faq": [
+        {
+          "q": "Why does the session emphasize a clear goal?",
+          "a": "The trainer’s framing is that AI needs a defined outcome to work toward. A vague request makes it harder to know what action or finished result is expected."
+        }
+      ]
     },
     {
       "number": 2,
@@ -27,10 +44,23 @@
         "The owner watches, steers when the work drifts, and verifies the result before increasing autonomy."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-02-delegation-loop.webp","alt":"Slide listing four moves: understand, delegate, watch, and operationalize.","caption":"The four moves the trainer uses to explain delegation."},
-        {"src":"assets/screenshots/lesson-02-autonomy-and-priority.webp","alt":"Slide about Astra continuing work while one question waits, with research, prepare, and build steps.","caption":"Related session slide about work continuing while a question waits. The transcript does not specify its prioritization rules."}
+        {
+          "src": "assets/screenshots/lesson-02-delegation-loop.webp",
+          "alt": "Slide listing four moves: understand, delegate, watch, and operationalize.",
+          "caption": "The four moves the trainer uses to explain delegation."
+        },
+        {
+          "src": "assets/screenshots/lesson-02-autonomy-and-priority.webp",
+          "alt": "Slide about Astra continuing work while one question waits, with research, prepare, and build steps.",
+          "caption": "Related session slide about work continuing while a question waits. The transcript does not specify its prioritization rules."
+        }
       ],
-      "faq": [{"q":"What does the human owner still do?","a":"In the restaurant example, the owner gives the requirement, watches for drift, redirects the work when needed, and checks whether the result matches the request."}]
+      "faq": [
+        {
+          "q": "What does the human owner still do?",
+          "a": "In the restaurant example, the owner gives the requirement, watches for drift, redirects the work when needed, and checks whether the result matches the request."
+        }
+      ]
     },
     {
       "number": 3,
@@ -42,10 +72,23 @@
         "The session’s suggested success measure is the verified outcome, not just the answer."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-03-verified-outcome.webp","alt":"Slide states GPT-6 Astra is a reasoning model built for end-to-end work and the useful unit is the verified outcome.","caption":"The slide makes the session’s answer-versus-outcome distinction explicit."},
-        {"src":"assets/screenshots/lesson-03-chat-versus-delegation.webp","alt":"Comparison slide: chat asks for content while delegation asks for completion.","caption":"A concise visual distinction between asking for content and delegating a finished result."}
+        {
+          "src": "assets/screenshots/lesson-03-verified-outcome.webp",
+          "alt": "Slide states GPT-6 Astra is a reasoning model built for end-to-end work and the useful unit is the verified outcome.",
+          "caption": "The slide makes the session’s answer-versus-outcome distinction explicit."
+        },
+        {
+          "src": "assets/screenshots/lesson-03-chat-versus-delegation.webp",
+          "alt": "Comparison slide: chat asks for content while delegation asks for completion.",
+          "caption": "A concise visual distinction between asking for content and delegating a finished result."
+        }
       ],
-      "faq": [{"q":"What counts as completed work in this session?","a":"The trainer describes a result that is delivered, rechecked, verified, supported by sources where relevant, and accompanied by an explanation of how it was produced."}]
+      "faq": [
+        {
+          "q": "What counts as completed work in this session?",
+          "a": "The trainer describes a result that is delivered, rechecked, verified, supported by sources where relevant, and accompanied by an explanation of how it was produced."
+        }
+      ]
     },
     {
       "number": 4,
@@ -57,9 +100,18 @@
         "Workflow means the task’s data, objectives, instructions, control, and review. The trainer says good results depend on all three."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-04-model-harness-workflow.webp","alt":"Slide titled Astra is evidence of progress, not proof of AGI, comparing model, harness, and workflow.","caption":"The session’s three-part framework: model, harness, and workflow."}
+        {
+          "src": "assets/screenshots/lesson-04-model-harness-workflow.webp",
+          "alt": "Slide titled Astra is evidence of progress, not proof of AGI, comparing model, harness, and workflow.",
+          "caption": "The session’s three-part framework: model, harness, and workflow."
+        }
       ],
-      "faq": [{"q":"How is a model different from a harness?","a":"The model is compared to the chef’s skill. The harness is compared to the kitchen equipment and rules that shape what that chef can do in a particular setting."}]
+      "faq": [
+        {
+          "q": "How is a model different from a harness?",
+          "a": "The model is compared to the chef’s skill. The harness is compared to the kitchen equipment and rules that shape what that chef can do in a particular setting."
+        }
+      ]
     },
     {
       "number": 5,
@@ -71,10 +123,23 @@
         "The prompt sets evidence rules: check each page and mark unavailable details instead of guessing."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-05-work-interface-model-picker.webp","alt":"Screenshot of the GPT Work interface showing a model and effort selection menu.","caption":"The model and effort controls shown during the live interface demonstration."},
-        {"src":"assets/screenshots/lesson-05-research-prompt.webp","alt":"Screenshot of the detailed prompt requesting a comparison of six AI operations programs with verified fields and exact links.","caption":"The research request and its comparison criteria as entered for the demonstration."}
+        {
+          "src": "assets/screenshots/lesson-05-work-interface-model-picker.webp",
+          "alt": "Screenshot of the GPT Work interface showing a model and effort selection menu.",
+          "caption": "The model and effort controls shown during the live interface demonstration."
+        },
+        {
+          "src": "assets/screenshots/lesson-05-research-prompt.webp",
+          "alt": "Screenshot of the detailed prompt requesting a comparison of six AI operations programs with verified fields and exact links.",
+          "caption": "The research request and its comparison criteria as entered for the demonstration."
+        }
       ],
-      "faq": [{"q":"Why does the sample prompt list exact comparison fields?","a":"The fields define what the final table must contain, so results can be compared consistently and missing information can be identified instead of filled in by guesswork."}]
+      "faq": [
+        {
+          "q": "Why does the sample prompt list exact comparison fields?",
+          "a": "The fields define what the final table must contain, so results can be compared consistently and missing information can be identified instead of filled in by guesswork."
+        }
+      ]
     },
     {
       "number": 6,
@@ -86,10 +151,23 @@
         "It verifies what it did, while a human remains in the loop to validate the result."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-06-execution-loop.webp","alt":"Diagram of answer, reason, act, and verify steps.","caption":"The session’s execution loop, arranged as four visible stages."},
-        {"src":"assets/screenshots/lesson-06-delegated-mission-loop.webp","alt":"Circular process diagram for delegated missions, showing understand, report, plan, verify, inspect, and act.","caption":"A companion slide expands the delegated task into a repeating mission loop."}
+        {
+          "src": "assets/screenshots/lesson-06-execution-loop.webp",
+          "alt": "Diagram of answer, reason, act, and verify steps.",
+          "caption": "The session’s execution loop, arranged as four visible stages."
+        },
+        {
+          "src": "assets/screenshots/lesson-06-delegated-mission-loop.webp",
+          "alt": "Circular process diagram for delegated missions, showing understand, report, plan, verify, inspect, and act.",
+          "caption": "A companion slide expands the delegated task into a repeating mission loop."
+        }
       ],
-      "faq": [{"q":"Why is verification a separate step?","a":"Taking an action does not prove it worked or matched the request. The session treats checking the evidence and having a human validate the outcome as part of the work."}]
+      "faq": [
+        {
+          "q": "Why is verification a separate step?",
+          "a": "Taking an action does not prove it worked or matched the request. The session treats checking the evidence and having a human validate the outcome as part of the work."
+        }
+      ]
     },
     {
       "number": 7,
@@ -101,9 +179,18 @@
         "Feedback and evaluation loops are presented as checks that help assess correctness."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-07-astra-architecture-layers.webp","alt":"Layer diagram showing model, context, tools, permissions, feedback, and evaluation.","caption":"The layer diagram associated with the architecture discussion."}
+        {
+          "src": "assets/screenshots/lesson-07-astra-architecture-layers.webp",
+          "alt": "Layer diagram showing model, context, tools, permissions, feedback, and evaluation.",
+          "caption": "The layer diagram associated with the architecture discussion."
+        }
       ],
-      "faq": [{"q":"What happens if an architecture layer is missing?","a":"The trainer says the system breaks down if a layer is removed. The practical takeaway is to check that the needed context, tools, access, and review process are present for the task."}]
+      "faq": [
+        {
+          "q": "What happens if an architecture layer is missing?",
+          "a": "The trainer says the system breaks down if a layer is removed. The practical takeaway is to check that the needed context, tools, access, and review process are present for the task."
+        }
+      ]
     },
     {
       "number": 8,
@@ -115,9 +202,18 @@
         "Source count needs confirmation: the transcript says “top 6 programs” but names only SkillUp, StarWeaver via Coursera, Harold, and Maven."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-08-research-result-table.webp","alt":"Screenshot of the generated AI operations program comparison table.","caption":"The result table shown after the research prompt. The transcript’s stated total and named providers do not fully agree."}
+        {
+          "src": "assets/screenshots/lesson-08-research-result-table.webp",
+          "alt": "Screenshot of the generated AI operations program comparison table.",
+          "caption": "The result table shown after the research prompt. The transcript’s stated total and named providers do not fully agree."
+        }
       ],
-      "faq": [{"q":"Did the task return six programs?","a":"The transcript refers to “top 6 programs” but lists four names. The original result table should be checked before publishing a definitive count."}]
+      "faq": [
+        {
+          "q": "Did the task return six programs?",
+          "a": "The transcript refers to “top 6 programs” but lists four names. The original result table should be checked before publishing a definitive count."
+        }
+      ]
     },
     {
       "number": 9,
@@ -129,10 +225,23 @@
         "Codex or desktop is described as working with local files, terminal, codebase, and browser; API is described as an integration path into custom apps."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-09-capability-routing.webp","alt":"Slide titled What goes in, what comes out, showing text and images in and text out, with audio and video note.","caption":"The session slide about input and output types. Its statements are presented here as the trainer’s explanation."},
-        {"src":"assets/screenshots/lesson-09-deployment-environments.webp","alt":"Comparison of ChatGPT conversation, Codex local files and tools, and API custom product environments.","caption":"The three environments named in the transcript."}
+        {
+          "src": "assets/screenshots/lesson-09-capability-routing.webp",
+          "alt": "Slide titled What goes in, what comes out, showing text and images in and text out, with audio and video note.",
+          "caption": "The session slide about input and output types. Its statements are presented here as the trainer’s explanation."
+        },
+        {
+          "src": "assets/screenshots/lesson-09-deployment-environments.webp",
+          "alt": "Comparison of ChatGPT conversation, Codex local files and tools, and API custom product environments.",
+          "caption": "The three environments named in the transcript."
+        }
       ],
-      "faq": [{"q":"How do the three environments differ in the session?","a":"The transcript distinguishes connected web work, local desktop access to files and development tools, and an API that lets builders embed model capability in their own systems."}]
+      "faq": [
+        {
+          "q": "How do the three environments differ in the session?",
+          "a": "The transcript distinguishes connected web work, local desktop access to files and development tools, and an API that lets builders embed model capability in their own systems."
+        }
+      ]
     },
     {
       "number": 10,
@@ -144,9 +253,18 @@
         "Max is described as peak analytical exploration. The earlier demo notes that higher effort can take longer."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-10-reasoning-effort-levels.webp","alt":"Chart comparing low, medium, high, extra high, and max reasoning effort levels.","caption":"The effort-level guide shown in the session."}
+        {
+          "src": "assets/screenshots/lesson-10-reasoning-effort-levels.webp",
+          "alt": "Chart comparing low, medium, high, extra high, and max reasoning effort levels.",
+          "caption": "The effort-level guide shown in the session."
+        }
       ],
-      "faq": [{"q":"Should I always choose the highest effort?","a":"The transcript maps effort to task demands and notes that more effort takes longer. Choose based on complexity and the depth of reasoning the task needs."}]
+      "faq": [
+        {
+          "q": "Should I always choose the highest effort?",
+          "a": "The transcript maps effort to task demands and notes that more effort takes longer. Choose based on complexity and the depth of reasoning the task needs."
+        }
+      ]
     },
     {
       "number": 11,
@@ -158,9 +276,18 @@
         "A useful prompt defines the goal, requested structure, reasoning expectations, and how the result should be verified."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-11-structured-task-instructions.webp","alt":"Screenshot of a staged task response with evidence, rejected positions, approval, and a budget scenario.","caption":"A structured task exchange illustrating staged instructions and checkpoints."}
+        {
+          "src": "assets/screenshots/lesson-11-structured-task-instructions.webp",
+          "alt": "Screenshot of a staged task response with evidence, rejected positions, approval, and a budget scenario.",
+          "caption": "A structured task exchange illustrating staged instructions and checkpoints."
+        }
       ],
-      "faq": [{"q":"What should a strong prompt specify?","a":"Based on the session, specify the goal, required output structure, reasoning expectations, relevant context, and the checks that will establish whether the result is correct."}]
+      "faq": [
+        {
+          "q": "What should a strong prompt specify?",
+          "a": "Based on the session, specify the goal, required output structure, reasoning expectations, relevant context, and the checks that will establish whether the result is correct."
+        }
+      ]
     },
     {
       "number": 12,
@@ -172,11 +299,28 @@
         "The screenshot also shows a tool-choice and human-handoff slide; that extra decision framework is not explained in the transcript."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-12-tool-multiplier.webp","alt":"Slide grouping tools into search, create, compute, operate, connect, and route.","caption":"The tool categories used in the session to explain the multiplier effect."},
-        {"src":"assets/screenshots/lesson-12-email-processing-demo.webp","alt":"Screenshot of an email-processing task prompt asking for a supplier email summary and recommended action.","caption":"The supplier-email example shown in the interface; the transcript describes summarizing, checking, and drafting or logging."},
-        {"src":"assets/screenshots/lesson-12-tool-choice-and-human-review.webp","alt":"Slide comparing direct tools, computer use, and human handoff as ways to act.","caption":"Related slide with additional tool-choice guidance that the transcript excerpt does not expand."}
+        {
+          "src": "assets/screenshots/lesson-12-tool-multiplier.webp",
+          "alt": "Slide grouping tools into search, create, compute, operate, connect, and route.",
+          "caption": "The tool categories used in the session to explain the multiplier effect."
+        },
+        {
+          "src": "assets/screenshots/lesson-12-email-processing-demo.webp",
+          "alt": "Screenshot of an email-processing task prompt asking for a supplier email summary and recommended action.",
+          "caption": "The supplier-email example shown in the interface; the transcript describes summarizing, checking, and drafting or logging."
+        },
+        {
+          "src": "assets/screenshots/lesson-12-tool-choice-and-human-review.webp",
+          "alt": "Slide comparing direct tools, computer use, and human handoff as ways to act.",
+          "caption": "Related slide with additional tool-choice guidance that the transcript excerpt does not expand."
+        }
       ],
-      "faq": [{"q":"Does the email example authorize the agent to make the payment?","a":"The example prompt says the owner has already approved the payment, but the transcript describes summarizing the email, checking the invoice, and drafting a response or logging an action. It does not say the agent itself should transfer money."}]
+      "faq": [
+        {
+          "q": "Does the email example authorize the agent to make the payment?",
+          "a": "The example prompt says the owner has already approved the payment, but the transcript describes summarizing the email, checking the invoice, and drafting a response or logging an action. It does not say the agent itself should transfer money."
+        }
+      ]
     },
     {
       "number": 13,
@@ -188,7 +332,12 @@
         "The stated takeaway is a shift from helping a person do the work to doing more of the workflow for them."
       ],
       "screenshots": [],
-      "faq": [{"q":"What changes when filmmaking tools are integrated?","a":"The transcript describes Astra coordinating the instructions and handoffs to external tools, then returning assets for a person to review, instead of requiring manual prompt copying at each step."}]
+      "faq": [
+        {
+          "q": "What changes when filmmaking tools are integrated?",
+          "a": "The transcript describes Astra coordinating the instructions and handoffs to external tools, then returning assets for a person to review, instead of requiring manual prompt copying at each step."
+        }
+      ]
     },
     {
       "number": 14,
@@ -200,9 +349,18 @@
         "The practical advice is to make instructions clear and resolve conflicts before delegating."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-14-limitations-slide.webp","alt":"Slide lists ambiguity, missing truth, prompt injection, accountability, and variability as remaining limits.","caption":"The slide includes additional limitations—missing truth, prompt injection, accountability, and variability—that are not explained in the transcript text. They are identified here as slide content, not transcript-derived claims."}
+        {
+          "src": "assets/screenshots/lesson-14-limitations-slide.webp",
+          "alt": "Slide lists ambiguity, missing truth, prompt injection, accountability, and variability as remaining limits.",
+          "caption": "The slide includes additional limitations—missing truth, prompt injection, accountability, and variability—that are not explained in the transcript text. They are identified here as slide content, not transcript-derived claims."
+        }
       ],
-      "faq": [{"q":"Do the benchmark references prove the system will always succeed?","a":"No. The transcript gives no benchmark scores and immediately discusses limitations. It specifically warns that ambiguity and contradictory prompts can still lead to errors."}]
+      "faq": [
+        {
+          "q": "Do the benchmark references prove the system will always succeed?",
+          "a": "No. The transcript gives no benchmark scores and immediately discusses limitations. It specifically warns that ambiguity and contradictory prompts can still lead to errors."
+        }
+      ]
     },
     {
       "number": 18,
@@ -216,13 +374,30 @@
         "The budget, application target, and delivery-time examples are examples in the supplied source, not independently verified results."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-18-brief.webp","alt":"Slide comparing a weak request with a strong, evidence-based bounded delegation brief.","caption":"The contrast supports the lesson’s focus on outcome, evidence, boundaries, and a clear stop before publishing or spending."},
-        {"src":"assets/screenshots/lesson-18-evidence-review.webp","alt":"Slide explaining that a real use case tests research, analysis, judgment, creation, and verification.","caption":"The source’s launch-planning example spans multiple capabilities and ends with verification."}
+        {
+          "src": "assets/screenshots/lesson-18-brief.webp",
+          "alt": "Slide comparing a weak request with a strong, evidence-based bounded delegation brief.",
+          "caption": "The contrast supports the lesson’s focus on outcome, evidence, boundaries, and a clear stop before publishing or spending."
+        },
+        {
+          "src": "assets/screenshots/lesson-18-evidence-review.webp",
+          "alt": "Slide explaining that a real use case tests research, analysis, judgment, creation, and verification.",
+          "caption": "The source’s launch-planning example spans multiple capabilities and ends with verification."
+        }
       ],
       "faq": [
-        {"q":"What are the six blocks in a delegation brief?","a":"Outcome, Context, Constraints, Authority, Evidence, and Definition of Done. Together they say what result is needed, what information applies, what limits exist, what actions are allowed, how claims should be supported, and when work must stop or be considered complete."},
-        {"q":"Why does the source distinguish COSTAR from a delegation brief?","a":"It presents COSTAR as useful for informative answers, while complex autonomous work also needs clear permissions, constraints, evidence requirements, and approval checkpoints."},
-        {"q":"Are the budget and application figures proven outcomes?","a":"No. They appear as illustrative examples in the supplied Markdown and should not be treated as measured or verified results."}
+        {
+          "q": "What are the six blocks in a delegation brief?",
+          "a": "Outcome, Context, Constraints, Authority, Evidence, and Definition of Done. Together they say what result is needed, what information applies, what limits exist, what actions are allowed, how claims should be supported, and when work must stop or be considered complete."
+        },
+        {
+          "q": "Why does the source distinguish COSTAR from a delegation brief?",
+          "a": "It presents COSTAR as useful for informative answers, while complex autonomous work also needs clear permissions, constraints, evidence requirements, and approval checkpoints."
+        },
+        {
+          "q": "Are the budget and application figures proven outcomes?",
+          "a": "No. They appear as illustrative examples in the supplied Markdown and should not be treated as measured or verified results."
+        }
       ]
     },
     {
@@ -236,14 +411,178 @@
         "A testable definition of done checks correctness, completeness, coherence, usability, and safety; claims trace to evidence and every required artifact exists."
       ],
       "screenshots": [
-        {"src":"assets/screenshots/lesson-19-authority.webp","alt":"Permission-design slide assigning read and draft actions to automatic execution, edits to checkpoints, and external communication or spending to human-only authority.","caption":"The screenshot makes the source’s three permission tiers concrete with examples of read, draft, edit, communicate, and spend actions."},
-        {"src":"assets/screenshots/lesson-19-checkpoints.webp","alt":"Human-in-the-loop slide placing checkpoints at plan, evidence, decision, and action boundaries.","caption":"Review decisions that change consequences instead of reviewing every routine step."},
-        {"src":"assets/screenshots/lesson-19-done.webp","alt":"Acceptance-criteria slide defining correct, complete, coherent, usable, and safe work.","caption":"The source’s completion criteria expressed as checks that can be evaluated."}
+        {
+          "src": "assets/screenshots/lesson-19-authority.webp",
+          "alt": "Permission-design slide assigning read and draft actions to automatic execution, edits to checkpoints, and external communication or spending to human-only authority.",
+          "caption": "The screenshot makes the source’s three permission tiers concrete with examples of read, draft, edit, communicate, and spend actions."
+        },
+        {
+          "src": "assets/screenshots/lesson-19-checkpoints.webp",
+          "alt": "Human-in-the-loop slide placing checkpoints at plan, evidence, decision, and action boundaries.",
+          "caption": "Review decisions that change consequences instead of reviewing every routine step."
+        },
+        {
+          "src": "assets/screenshots/lesson-19-done.webp",
+          "alt": "Acceptance-criteria slide defining correct, complete, coherent, usable, and safe work.",
+          "caption": "The source’s completion criteria expressed as checks that can be evaluated."
+        }
       ],
       "faq": [
-        {"q":"What belongs in the blocked permission tier?","a":"The supplied source places external communication, sending emails, and spending money in the blocked or human-only tier unless a person directly intervenes."},
-        {"q":"Where should a human checkpoint go?","a":"At decision boundaries where the consequences change—for example, approving a plan, reviewing evidence quality, choosing a direction, or authorizing an external action."},
-        {"q":"How can I tell whether delegated work is done?","a":"Use testable checks: claims are supported and calculations can be recomputed, required artifacts exist, artifacts agree, the target user can act without rework, and no action exceeded its authorized scope."}
+        {
+          "q": "What belongs in the blocked permission tier?",
+          "a": "The supplied source places external communication, sending emails, and spending money in the blocked or human-only tier unless a person directly intervenes."
+        },
+        {
+          "q": "Where should a human checkpoint go?",
+          "a": "At decision boundaries where the consequences change—for example, approving a plan, reviewing evidence quality, choosing a direction, or authorizing an external action."
+        },
+        {
+          "q": "How can I tell whether delegated work is done?",
+          "a": "Use testable checks: claims are supported and calculations can be recomputed, required artifacts exist, artifacts agree, the target user can act without rework, and no action exceeded its authorized scope."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Direct Hosting Integrations",
+      "summary": "The source describes connecting hosting accounts to an autonomous agent so it can build a site or app, deploy it, and return a live link. Treat this as the trainer’s description of the workflow, not a guarantee that every account or project supports it.",
+      "highlights": [
+        "The described flow connects Vercel, Netlify, or GitHub, then asks the agent to build code, host it, and return a live URL.",
+        "The trainer frames deployment as part of an end-to-end task rather than a separate manual handoff.",
+        "The “virtually limitless” capability statement is the source’s characterization, not a verified platform guarantee."
+      ],
+      "screenshots": [],
+      "faq": [
+        {
+          "q": "Does connecting an account guarantee a successful deployment?",
+          "a": "No. The source describes a possible workflow. Actual deployment depends on account access, project configuration, permissions, build status, and the hosting provider."
+        },
+        {
+          "q": "What should the agent return at the end?",
+          "a": "The source asks it to return the live working link. A useful review should also check that the deployment loads and contains the expected result."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Session Intelligence for Better Workshops",
+      "summary": "The source proposes reviewing transcripts, attendance, audience reactions, and chat together to improve a future workshop, with findings tied to timestamps and evidence.",
+      "highlights": [
+        "Combine multiple records from the same session: transcript, join/leave/return times, reactions, and chat.",
+        "Use a six-block brief to specify the outcome, context, constraints, authority, evidence standard, and definition of done.",
+        "The example limits analysis to supplied files, asks for a one-page summary, and forbids external contact.",
+        "Requested outputs are three audience-favorite moments, three major drop-offs with causes, and three concrete running-order changes."
+      ],
+      "screenshots": [
+        {
+          "src": "assets/screenshots/lesson-21-session-intelligence.webp",
+          "alt": "Title slide introducing Mission 02: Session Intelligence.",
+          "caption": "The session-intelligence mission title, matched to the source section."
+        },
+        {
+          "src": "assets/screenshots/lesson-21-multimodal-timeline.webp",
+          "alt": "Timeline aligning attendance, reactions, chat, polls, and transcript streams.",
+          "caption": "The visual shows the multiple session data streams the source says to analyze together."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why combine attendance and chat with a transcript?",
+          "a": "The source’s approach uses each stream to add context: attendance shows when people joined or left, while reactions and chat can help interpret engagement alongside what was being discussed."
+        },
+        {
+          "q": "How should findings be supported?",
+          "a": "Tie every finding to a specific timestamp and data point in the supplied materials, and avoid claims that cannot be traced to those files."
+        },
+        {
+          "q": "What does the example ask the analysis to deliver?",
+          "a": "A one-page summary with three moments participants liked, three major drop-offs and their causes, and three concrete changes to the next workshop’s running order."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Managing Credits and Choosing Effort",
+      "summary": "The source warns that high-effort, multi-file, parallel work can use credits quickly and suggests reserving higher-cost models for coordination-heavy tasks.",
+      "highlights": [
+        "The source says Extra High effort and parallel, multi-file work can consume tokens and credits rapidly.",
+        "It contrasts Astra for complex coordinated missions with Luna for simpler tasks.",
+        "It describes weekly and short-term usage windows and says work may pause if a limit is reached.",
+        "Account limits and reset behavior can change; these points are the transcript’s explanation, not a live check of current policy."
+      ],
+      "screenshots": [],
+      "faq": [
+        {
+          "q": "Should every task use the highest-effort model?",
+          "a": "The source recommends matching model effort to task complexity. It suggests lighter models for simple tasks and reserving Astra for work that needs substantial coordination."
+        },
+        {
+          "q": "Are the transcript’s credit limits current or account-specific?",
+          "a": "This guide does not verify live account limits. Check the current usage information in your own account before planning around caps or reset windows."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Stress-Testing Recommendations with Self-Critique",
+      "summary": "The source suggests asking the model to challenge its own recommendation, surface alternative explanations, identify evidence that could resolve uncertainty, and lower confidence where appropriate.",
+      "highlights": [
+        "First request a recommendation with its reasoning.",
+        "Then ask for the strongest case against that recommendation, alternative explanations, and what evidence would distinguish them.",
+        "Ask the model to reduce confidence when evidence is incomplete; the source gives parallel trials as an example alternative to an unverified annual commitment."
+      ],
+      "screenshots": [
+        {
+          "src": "assets/screenshots/lesson-23-self-critique.webp",
+          "alt": "Slide titled Make Astra argue against itself, challenging a pitch and asking for alternative explanations and discriminating evidence.",
+          "caption": "The slide illustrates challenging a recommendation before treating correlation as a decision."
+        },
+        {
+          "src": "assets/screenshots/lesson-23-challenge-prompt.webp",
+          "alt": "Prompt asking for a project-management tool recommendation with context, constraints, authority, evidence, and a definition of done.",
+          "caption": "An example structured recommendation request that can be followed by the source’s self-critique step."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What should a useful self-critique ask for?",
+          "a": "Ask for the strongest reasons the recommendation could be wrong, alternative explanations, the evidence that would settle each point, and a lower confidence level when uncertainty remains."
+        },
+        {
+          "q": "Does self-critique prove the first recommendation is wrong?",
+          "a": "No. It is a way to test assumptions and expose missing evidence, not a guarantee of correctness."
+        },
+        {
+          "q": "What is the source’s example of a more cautious decision?",
+          "a": "It mentions running parallel trials rather than committing to an unverified annual plan."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "When to Use a High-Cost Model",
+      "summary": "The source’s rule of thumb is to use lighter models for low-coordination work and reserve Astra for tasks where multiple outputs must stay aligned across research, models, code, and decision documents.",
+      "highlights": [
+        "Low-coordination examples include summarizing notes, standard email replies, and quick questions; the source says these can use lighter models.",
+        "High coordination means several dependent outputs must align, such as market research, pricing, landing-page code, financial constraints, and decision memos.",
+        "The source argues that higher model effort is more justified when coordination and contradiction risk dominate the work."
+      ],
+      "screenshots": [
+        {
+          "src": "assets/screenshots/lesson-24-coordination-rule.webp",
+          "alt": "Diagram contrasting low-coordination tasks with more coordinated end-to-end missions.",
+          "caption": "The visual mirrors the source’s rule of thumb for reserving higher-cost models."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What makes a task high coordination?",
+          "a": "Several connected outputs or files must agree—for example, research, pricing, financial constraints, code, and a decision memo."
+        },
+        {
+          "q": "What is the simplest model-selection rule in the source?",
+          "a": "Use a lighter model for routine, low-coordination tasks; consider Astra when a complex mission requires several pieces of work to remain consistent."
+        }
       ]
     }
   ]

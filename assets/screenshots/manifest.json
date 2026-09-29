@@ -5,7 +5,12 @@
     "assets/screenshots/lesson-19-authority.webp": "Screenshot 2026-09-29 at 8.48.18 PM.png",
     "assets/screenshots/lesson-19-checkpoints.webp": "Screenshot 2026-09-29 at 8.50.07 PM.png",
     "assets/screenshots/lesson-19-done.webp": "Screenshot 2026-09-29 at 8.50.36 PM.png",
-    "assets/screenshots/lesson-18-evidence-review.webp": "Screenshot 2026-09-29 at 8.53.14 PM.png"
+    "assets/screenshots/lesson-18-evidence-review.webp": "Screenshot 2026-09-29 at 8.53.14 PM.png",
+    "assets/screenshots/lesson-21-session-intelligence.webp": "Screenshot 2026-09-29 at 9.11.34 PM.png",
+    "assets/screenshots/lesson-21-multimodal-timeline.webp": "Screenshot 2026-09-29 at 9.12.40 PM.png",
+    "assets/screenshots/lesson-23-self-critique.webp": "Screenshot 2026-09-29 at 9.27.36 PM.png",
+    "assets/screenshots/lesson-23-challenge-prompt.webp": "Screenshot 2026-09-29 at 9.30.01 PM.png",
+    "assets/screenshots/lesson-24-coordination-rule.webp": "Screenshot 2026-09-29 at 9.36.18 PM.png"
   },
   "mapped_screenshots": [
     {
@@ -189,7 +194,95 @@
       "asset": "assets/screenshots/lesson-19-done.webp",
       "alt": "Acceptance-criteria slide defining correct, complete, coherent, usable, and safe work.",
       "caption": "The source’s completion criteria expressed as checks that can be evaluated."
+    },
+    {
+      "lesson": 21,
+      "title": "Session Intelligence for Better Workshops",
+      "asset": "assets/screenshots/lesson-21-session-intelligence.webp",
+      "alt": "Title slide introducing Mission 02: Session Intelligence.",
+      "caption": "The session-intelligence mission title, matched to the source section."
+    },
+    {
+      "lesson": 21,
+      "title": "Session Intelligence for Better Workshops",
+      "asset": "assets/screenshots/lesson-21-multimodal-timeline.webp",
+      "alt": "Timeline aligning attendance, reactions, chat, polls, and transcript streams.",
+      "caption": "The visual shows the multiple session data streams the source says to analyze together."
+    },
+    {
+      "lesson": 23,
+      "title": "Stress-Testing Recommendations with Self-Critique",
+      "asset": "assets/screenshots/lesson-23-self-critique.webp",
+      "alt": "Slide titled Make Astra argue against itself, challenging a pitch and asking for alternative explanations and discriminating evidence.",
+      "caption": "The slide illustrates challenging a recommendation before treating correlation as a decision."
+    },
+    {
+      "lesson": 23,
+      "title": "Stress-Testing Recommendations with Self-Critique",
+      "asset": "assets/screenshots/lesson-23-challenge-prompt.webp",
+      "alt": "Prompt asking for a project-management tool recommendation with context, constraints, authority, evidence, and a definition of done.",
+      "caption": "An example structured recommendation request that can be followed by the source’s self-critique step."
+    },
+    {
+      "lesson": 24,
+      "title": "When to Use a High-Cost Model",
+      "asset": "assets/screenshots/lesson-24-coordination-rule.webp",
+      "alt": "Diagram contrasting low-coordination tasks with more coordinated end-to-end missions.",
+      "caption": "The visual mirrors the source’s rule of thumb for reserving higher-cost models."
     }
   ],
-  "unmatched_new_captures": []
+  "unmatched_new_captures": [
+    {
+      "source": "Screenshot 2026-09-29 at 9.08.42 PM.png",
+      "reason": "The scorecard topic and numeric ratings are not described in extra_transcript_part_3.md."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.08.52 PM.png",
+      "reason": "Cross-industry transfer examples are not described in the supplied Part 3 text."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.16.54 PM.png",
+      "reason": "The budget and qualified-application forecast are not part of the supplied Part 3 text."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.17.57 PM.png",
+      "reason": "Spreadsheet output about the budget scenario is not described in the supplied Part 3 text."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.18.15 PM.png",
+      "reason": "The spreadsheet view does not correspond to a specific claim or example in the supplied Part 3 text."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.18.36 PM.png",
+      "reason": "The spreadsheet view does not correspond to a specific claim or example in the supplied Part 3 text."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.18.44 PM.png",
+      "reason": "The creative-measurement spreadsheet is not described in the supplied Part 3 text."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.18.51 PM.png",
+      "reason": "The creative-measurement spreadsheet is not described in the supplied Part 3 text."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.19.14 PM.png",
+      "reason": "The fellowship landing-page preview is not described in the supplied Part 3 text."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.19.58 PM.png",
+      "reason": "The launch-plan review and open decisions are not described in the supplied Part 3 text."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.20.13 PM.png",
+      "reason": "The evidence-step launch-plan output is not described in the supplied Part 3 text."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.31.11 PM.png",
+      "reason": "A second capture of the structured self-critique prompt is redundant with the clearer prompt screenshot assigned to Lesson 23."
+    },
+    {
+      "source": "Screenshot 2026-09-29 at 9.48.06 PM.png",
+      "reason": "This is a capture of the learning site itself, not source material for a Part 3 lesson."
+    }
+  ]
 }
